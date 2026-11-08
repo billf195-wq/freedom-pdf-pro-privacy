@@ -12,7 +12,7 @@ Freedom PDF Pro is a PDF viewer, markup, and takeoff app for Windows. This polic
 - The app does not collect, sell, or share your personal information with Bill Foster.
 
 ## Microsoft Store edition
-- If you buy or unlock features through the Microsoft Store, Windows checks your license with Microsoft so the app knows what you purchased (for example Easy mode versus Pro / Scotty).
+- If you buy or unlock features through the Microsoft Store, Windows checks your license with Microsoft so the app knows what you purchased (for example Easy mode versus Advanced).
 - Microsoft handles that purchase and license under Microsoft's own privacy policy. Freedom PDF Pro only learns whether a license is active.
 - Store updates are delivered by Microsoft, not by Bill Foster's servers.
 
